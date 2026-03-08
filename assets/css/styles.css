@@ -1,0 +1,12 @@
+.nav-link svg path {
+    fill: #ffffff8c;
+    transition: fill 0.2s ease;
+}
+
+.nav-link:hover svg path {
+    fill: #ffffff;
+}
+
+.nav-link:hover svg {
+    fill: #ffffff;
+}
