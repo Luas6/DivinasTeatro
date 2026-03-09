@@ -10,3 +10,7 @@
 .nav-link:hover svg {
     fill: #ffffff;
 }
+
+.nav-link {
+    text-align: center;
+}
