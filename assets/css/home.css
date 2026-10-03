@@ -106,4 +106,10 @@ footer{background:#0c1016;border-top:1px solid #ffffff1c}.footer-inner{display:f
   .play-meta{gap:16px;font-size:.85rem}
 }
 
+
+.webcharra-credit{display:inline-flex;align-items:center;gap:8px;font-size:.72rem;color:#abb4bf;text-decoration:none;transition:color .2s}
+.webcharra-credit:hover{color:var(--cyan)}
+.webcharra-credit img{filter:grayscale(1) opacity(.7);transition:filter .2s}
+.webcharra-credit:hover img{filter:none}
+
 @media(max-width:480px){.nav a:nth-child(2){display:none}}
