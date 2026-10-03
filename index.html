@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="es">
 <head>
   <meta charset="utf-8">
@@ -16,6 +16,17 @@
   <meta property="og:description" content="Conoce a Divinas Teatro, sus obras Escapadas y No te fíes y su próximo estreno: Hermanastras.">
   <meta property="og:url" content="https://www.divinasteatro.es/">
   <meta property="og:image" content="https://www.divinasteatro.es/assets/img/actrices-divinas.webp">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@divinasteatro">
+  <meta name="twitter:title" content="Divinas Teatro | Teatro con voz propia desde Salamanca">
+  <meta name="twitter:description" content="Compa??a de teatro con ra?ces en Salamanca. Escapadas, No te f?es y el pr?ximo estreno Hermanastras. Pr?xima actuaci?n: 8 octubre en Villanueva de la Vera.">
+  <meta name="twitter:image" content="https://www.divinasteatro.es/assets/img/actrices-divinas.webp">
+  <meta name="geo.region" content="ES-SA">
+  <meta name="geo.placename" content="Salamanca">
+  <meta name="geo.position" content="40.9701;-5.6635">
+  <meta name="ICBM" content="40.9701, -5.6635">
+  <link rel="alternate" hreflang="es" href="https://www.divinasteatro.es/">
+  <link rel="alternate" hreflang="x-default" href="https://www.divinasteatro.es/">
   <link rel="stylesheet" href="assets/css/home.css">
   <script type="application/ld+json">
   {
@@ -33,6 +44,7 @@
     "sameAs": ["https://www.instagram.com/divinasteatro/", "https://www.facebook.com/divinasteatro/"]
   }
   </script>
+  
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -49,7 +61,65 @@
     "performer": {"@id": "https://www.divinasteatro.es/#compania"},
     "workPerformed": {"@type": "CreativeWork", "name": "Escapadas", "url": "https://www.divinasteatro.es/escapadas/"}
   }
+  
   </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "CreativeWork",
+        "@id": "https://www.divinasteatro.es/escapadas/#obra",
+        "name": "Escapadas",
+        "description": "Tres amigas de toda la vida deciden escaparse de sus quehaceres cotidianos para disfrutar unos d?as juntas en la playa y celebrar un divorcio. Entre recuerdos, confidencias y momentos inesperados, esta escapada se convierte en una oportunidad para reencontrarse consigo mismas y con la amistad.",
+        "genre": "Comedia",
+        "inLanguage": "es",
+        "duration": "PT60M",
+        "author": {"@id": "https://www.divinasteatro.es/#compania"},
+        "actor": [
+          {"@type": "Person", "name": "Elena Romero", "characterName": "Lola"},
+          {"@type": "Person", "name": "Mercedes Garc?a", "characterName": "Cuca"},
+          {"@type": "Person", "name": "Silvia Jim?nez", "characterName": "Lisa"}
+        ],
+        "url": "https://www.divinasteatro.es/escapadas/",
+        "image": "https://www.divinasteatro.es/assets/img/banner-escapadas.webp",
+        "trailer": {"@type": "VideoObject", "name": "Tr?iler Escapadas", "embedUrl": "https://www.youtube.com/embed/YafT1WtVSAU", "description": "Tr?iler oficial de la obra Escapadas"}
+      },
+      {
+        "@type": "CreativeWork",
+        "@id": "https://www.divinasteatro.es/notefies/#obra",
+        "name": "No te f?es",
+        "description": "Tres amigas se re?nen para celebrar la ?ltima noche del a?o. El p?nico se cuela por la cerradura. Abrir o no abrir la puerta. Mostrarse tal cual uno es, con sus limitaciones y miserias, o seguir disimulando.",
+        "genre": "Comedia",
+        "inLanguage": "es",
+        "duration": "PT70M",
+        "author": {"@id": "https://www.divinasteatro.es/#compania"},
+        "actor": [
+          {"@type": "Person", "name": "Elena Romero", "characterName": "Frida"},
+          {"@type": "Person", "name": "Mercedes Garc?a", "characterName": "Greta"},
+          {"@type": "Person", "name": "Silvia Jim?nez", "characterName": "Mona"}
+        ],
+        "url": "https://www.divinasteatro.es/notefies/",
+        "image": "https://www.divinasteatro.es/assets/img/banner-notefies.webp",
+        "trailer": {"@type": "VideoObject", "name": "Tr?iler No te f?es", "embedUrl": "https://www.youtube.com/embed/_kGfAta_Csg", "description": "Tr?iler oficial de la obra No te f?es"}
+      }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.divinasteatro.es/",
+    "name": "Divinas Teatro",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {"@type": "EntryPoint", "urlTemplate": "https://www.divinasteatro.es/?q={search_term_string}"},
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script></script>
 </head>
 <body>
   <a class="skip-link" href="#contenido">Saltar al contenido</a>
@@ -112,3 +182,4 @@
   <footer><div class="container footer-inner"><a class="brand" href="#inicio" aria-label="Divinas Teatro, volver al inicio"><img src="assets/img/icons/icono.webp" alt="" width="42" height="42"><span>DIVINAS<span class="brand-dot">.</span><small>TEATRO</small></span></a><p>Teatro con voz propia. Salamanca, España.</p><div><a href="#actuacion">Actuación</a><a href="#obras">Obras</a><a href="#proximamente">Próximamente</a><a href="#contacto">Contacto</a></div></div><div class="container footer-bottom"><span>© 2026 Divinas Teatro</span><span>Hecho para vivir el teatro</span></div></footer>
 </body>
 </html>
+

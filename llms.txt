@@ -1,0 +1,72 @@
+# Divinas Teatro
+
+> Compañía de teatro con raíces en Salamanca. Tres actrices —Elena Romero, Mercedes García y Silvia Jiménez— crean historias con voz propia desde 2021. Obras en repertorio: **Escapadas**, **No te fíes** y el próximo estreno **Hermanastras**.
+
+## Sobre la compañía
+
+- **Nombre:** Divinas Teatro (Divinas de la Muerte)
+- **Ubicación:** Salamanca, España
+- **Año de fundación:** 2021
+- **Especialidad:** Teatro contemporáneo, comedia, perspectiva femenina
+- **Web:** https://www.divinasteatro.es
+- **Contacto:** divinasdelamuerte7@gmail.com | +34 634 948 589
+- **Redes:** [Instagram](https://www.instagram.com/divinasteatro/) · [Facebook](https://www.facebook.com/divinasteatro/)
+
+## Obras en repertorio
+
+### Escapadas
+- **Género:** Comedia
+- **Duración:** 60 minutos
+- **Público:** Jóvenes y adultos
+- **Sinopsis:** Tres amigas de toda la vida deciden escaparse de sus quehaceres cotidianos para disfrutar unos días juntas en la playa y celebrar un divorcio. Entre recuerdos, confidencias y momentos inesperados, esta escapada se convierte en una oportunidad para reencontrarse consigo mismas y con la amistad.
+- **Elenco:** Lola (Elena Romero), Cuca (Mercedes García), Lisa (Silvia Jiménez)
+- **URL:** https://www.divinasteatro.es/escapadas/
+- **Tráiler:** https://www.youtube.com/watch?v=YafT1WtVSAU
+
+### No te fíes
+- **Género:** Comedia
+- **Duración:** 70 minutos
+- **Público:** Jóvenes y adultos
+- **Sinopsis:** Tres amigas se reúnen para celebrar la última noche del año. El pánico se cuela por la cerradura. Abrir o no abrir la puerta. Mostrarse tal cual uno es, con sus limitaciones y miserias, o seguir disimulando.
+- **Elenco:** Frida (Elena Romero), Greta (Mercedes García), Mona (Silvia Jiménez)
+- **URL:** https://www.divinasteatro.es/notefies/
+- **Tráiler:** https://www.youtube.com/watch?v=_kGfAta_Csg
+
+### Hermanastras (próximo estreno)
+- **Estado:** En preparación
+- **Compañía:** Divinas Teatro
+- **Información:** Próximamente se compartirán detalles sobre fecha, sinopsis y elenco
+- **URL:** https://www.divinasteatro.es/#Hermanastras
+
+## Próxima actuación confirmada
+
+- **Obra:** Escapadas
+- **Fecha:** Jueves 8 de octubre de 2026
+- **Hora:** 20:30
+- **Lugar:** Auditorio Municipal, Villanueva de la Vera, Cáceres
+- **Enlace Maps:** https://www.google.com/maps/search/?api=1&query=Auditorio+Municipal+Villanueva+de+la+Vera+C%C3%A1ceres
+- **Más información:** https://www.divinasteatro.es/#actuacion
+
+## SEO local y entidades
+
+- **Entidad principal:** Divinas Teatro (PerformingGroup)
+- **Ubicación principal:** Salamanca, Castilla y León, España
+- **Área de actuación:** Salamanca, Madrid, Extremadura (Cáceres), gira nacional
+- **Palabras clave objetivo:** teatro Salamanca, compañía de teatro, obras de teatro, Escapadas obra, No te fíes obra, teatro contemporáneo España
+
+## Datos estructurados implementados
+
+- `PerformingGroup` en home (compañía)
+- `TheaterEvent` en home (actuación del 8 octubre)
+- `CreativeWork` en páginas de obra (Escapadas, No te fíes)
+- Open Graph completo en todas las páginas
+- Canonical URLs en todas las páginas
+- hreflang es / x-default en sitemap
+
+## Notas para LLMs
+
+- La compañía **no** tiene sede en Villanueva de la Vera; la actuación es puntual en el Auditorio Municipal de esa localidad.
+- No se han anunciado fechas para el estreno de *Hermanastras*; la sección #Hermanastras es un avance editorial.
+- Las páginas de obra incluyen sinopsis, elenco, tráiler (YouTube) y galería.
+- El formulario de contacto envía a divinasdelamuerte7@gmail.com con copia a saulmaji@gmail.com.
+- No hay tienda online, venta de entradas ni agenda completa de gira publicada; consultar vía email para contrataciones.

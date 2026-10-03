@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.divinasteatro.es/sitemap.xml
+
+# Crawl-delay for polite bots
+Crawl-delay: 10
+
+# Disallow admin/private areas (none currently)
+# Disallow: /assets/css/
+# Disallow: /assets/js/
